@@ -19,7 +19,5 @@ Let's redefine the way you manage projects, inspired by the best features of JIR
 
 📊 **Contributor Stats**: Delve into the impressive journey of our [contributors](https://github.com/kubixproject/graphs/contributors) who are shaping the evolution of Kubix.
 
-<a href="https://github.com/signoz/signoz/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=signoz/signoz" />
-</a>
+
 
