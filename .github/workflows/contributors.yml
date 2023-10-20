@@ -1,7 +1,7 @@
 name: Contributors
 on:
   schedule:
-    - cron: '1 * * * *'
+    - cron: '1 * * * *' 
   push:
     branches:
       - master
@@ -12,4 +12,4 @@ jobs:
       - uses: wow-actions/contributors-list@v1
         with:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-          round: true
+          svgPath: CONTRIBUTORS.svg
