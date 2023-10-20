@@ -17,10 +17,7 @@ Ready to experience an all-in-one solution for project management and collaborat
 Let's redefine the way you manage projects, inspired by the best features of JIRA, Asana, Trello, and more, with Kubix! 🔍✨
 
 
-📊 **Contributor Stats**: Delve into the impressive journey of our [contributors](https://github.com/kubixproject/graphs/contributors) who are shaping the evolution of Kubix.
-
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
+<!-- 📊 **Contributor Stats**: Delve into the impressive journey of our [contributors](https://github.com/kubixproject/graphs/contributors) who are shaping the evolution of Kubix. -->
 
 
 
