@@ -44,9 +44,9 @@ Welcome to our project! We appreciate your interest in contributing. This guide 
     `git add .
     git commit -m "Brief description of changes"` 
     
-2.  **Push Changes**: Push your changes to the repository:
+2.  **Push Changes**: Push your changes to the "develop" repository:
     
-    `git push origin branch-name` 
+    `git push origin develop` 
     
 3. **Submit a Pull Request (PR)**: Navigate to the repository on GitHub and create a new Pull Request:
 	-   Include a descriptive title and detailed description.
