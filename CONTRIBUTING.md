@@ -31,7 +31,7 @@ Welcome to our project! We appreciate your interest in contributing. This guide 
     
 ## Working on the Task
 
-1.  **Create a Branch**: Create a new branch directly from the task inside the repository. 
+1.  **Create a Branch**: Create a new branch directly from the task inside the repository - it should created by "develop". 
 ![enter image description here](https://i.ibb.co/dMD6jbX/Untitled-design-3.png) 
     
 3.  **Change Status to In Progress**: Update the issue status to "In Progress" on GitHub - it will show that you are working on it.
