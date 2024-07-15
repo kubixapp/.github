@@ -26,7 +26,7 @@ Welcome to our project! We appreciate your interest in contributing. This guide 
 2.  **Good First Issue**: Look for issues labeled "Good First Issue" — these are perfect to work on it first.
 ![enter image description here](https://i.ibb.co/yNyfT5n/Untitled-design.png)
     
-3.  **Assigning Yourself**: Assign the issue to yourself on GitHub to let others know you're working on it.
+3.  **Assigning Yourself**: In the comment you can simple write I am taking, PO assign it to you, You will see your name in the below image section.
     ![enter image description here](https://i.ibb.co/0GKKnXp/Untitled-design-1.png)
     
 ## Working on the Task
